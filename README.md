@@ -1,2 +1,2 @@
-# Classification-ThaiRequesType
+# Classification-ThaiRequestType
 ML-model
